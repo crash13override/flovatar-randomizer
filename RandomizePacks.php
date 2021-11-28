@@ -29,7 +29,7 @@ class RandomizePacks extends Command
 
     // 9799 Sparks (200 out of the packs)
     // 22597 Boosters (350 Legendary, 3500 Epic, 18747 Rare)
-    // 22597 Components (13600 Standard, 8997 Deluxe)
+    // 12798 Components (150 Legendary, 1000 Epic, 3000 Rare)
 
     protected $packStandardCount = 6800;
     protected $packDeluxeCount = 2999;
